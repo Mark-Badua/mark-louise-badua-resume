@@ -1,3 +1,4 @@
 # learning-html
 
-- In this repo, I will be exploring how to create static websites using html
+ - This repo serves as a learning ground to learn HTML
+ - To learn faster, I will be recreating my resume in HTML
