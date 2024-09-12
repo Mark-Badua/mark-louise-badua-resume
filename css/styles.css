@@ -3,18 +3,28 @@
   color: black;
   /* padding: 20px; */
   text-align: center;
+  margin: 96px 0 0 0;
 }
 
 .horizontal-line {
   width: 100%;
-  height: 2px;
+  height: 1px;
   background-color: black;
-  margin: 0 0 10px;
+  margin: 0 0 15 0;
 }
 
 .flex-container{
   display: flex;
   justify-content: space-between;
+  font-style: italic;
+}
+
+.left-text {
+  align-self: flex-start;
+}
+
+.right-text {
+  align-self: flex-end;
 }
 
 .h3-like{
@@ -26,7 +36,7 @@ body {
   font-family: Arial, sans-serif;
   color: black;
   background-color: white;
-  margin: 96px 96px auto;
+  margin: 96px auto 96px auto;
   height: 297mm;
   width: 210mm;
   /* font-size: 2vmin; */
